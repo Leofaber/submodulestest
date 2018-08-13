@@ -1,0 +1,6 @@
+[submodule "AG_expratio"]
+	path = AG_expratio
+	url = https://github.com/Leofaber/AG_expratio
+[submodule "agextspot-v2"]
+	path = agextspot-v2
+	url = https://github.com/Leofaber/agextspot-v2
